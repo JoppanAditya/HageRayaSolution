@@ -1,0 +1,13 @@
+:root {
+    --hue-value-1: 213;
+    --hue-value-2: 197;
+    --main-color: hsl(var(--hue-value-1), 71%, 20%);
+    --second-color: hsl(var(--hue-value-2), 100%, 24%);
+    --third-color: hsl(184, 100%, 28%);
+    --button-hover-color: hsl(var(--hue-value-1), 72%, 15%);
+    --body-bg-color: hsl(0, 14%, 97%);
+    --border-color-2: hsl(var(--hue-value-1), 40%, 93%);
+    --shadow: 0 0 10px hsl(var(--hue-value-1), 40%, 90%);
+    --decoration-bg-color-1: hsl(var(--hue-value-1), 100%, 70%);
+    --decoration-bg-color-2: hsl(var(--hue-value-2), 100%, 70%);
+}
